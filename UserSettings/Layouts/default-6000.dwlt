@@ -220,8 +220,8 @@ MonoBehaviour:
     y: 0
     width: 980.8
     height: 411.2
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 226}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -246,8 +246,8 @@ MonoBehaviour:
     y: 411.2
     width: 980.8
     height: 393.59998
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 226}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -333,7 +333,7 @@ MonoBehaviour:
     m_DynamicPanelBehavior: 0
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -22122
+  m_LastSelectedObjectID: 0
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -645,10 +645,6 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -21806
-      - m_Data: -13420
-      - m_Data: -7816
-      - m_Data: -2964
       - m_Data: -1316
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -773,9 +769,9 @@ MonoBehaviour:
     m_SceneHandles: []
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 0
+    m_SearchArea: 1
     m_Folders:
-    - Packages/com.unity.nuget.newtonsoft-json
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -785,28 +781,27 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Packages/com.unity.nuget.newtonsoft-json
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Mori\My project
+  m_LastProjectPath: C:\Users\Mori\Mori Calliope movement code
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 157.20001}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 49404
+    - m_Data: 49098
     m_LastClickedID:
-      m_Data: 49404
+      m_Data: 49098
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 49096
     - m_Data: 49098
     - m_Data: 49100
     - m_Data: 49102
     - m_Data: 49104
     - m_Data: 49106
+    - m_Data: 49108
     - m_Data: 1000000000
-    - m_Data: 2147483647
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -840,12 +835,12 @@ MonoBehaviour:
       m_Data: 69300
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 49096
     - m_Data: 49098
     - m_Data: 49100
     - m_Data: 49102
     - m_Data: 49104
     - m_Data: 49106
+    - m_Data: 49108
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -872,9 +867,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: -22122
-    m_LastClickedInstanceID: -22122
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs:
     - m_Data: 75862
